@@ -1,0 +1,3 @@
+# Exclude actual personal credit card configuration
+credit_cards.md
+*.local.md
